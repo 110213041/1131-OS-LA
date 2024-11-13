@@ -17,7 +17,7 @@ Announcement will be publish in
 - 時間 / Time: 星期二 Tuesday 1500-1800 (暫定 / Tentative)
 - 地點 / Venue: 待定 / TBA
 
-## 聯絡
+## 聯絡 Contact
 
 如果對計劃内容有任何疑問, 歡迎到創建新 Issue, 小老師會儘快回覆.
 

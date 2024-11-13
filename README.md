@@ -21,13 +21,13 @@ Announcement will be publish in
 
 如果對計劃内容有任何疑問, 歡迎到創建新 Issue, 小老師會儘快回覆.
 
-若有不方便公開事宜, 請致函 `s110213041@mail1.ncnu.edu.tw`.
+若有不方便公開事宜, 請致函 `s110213041@ncnu.edu.tw`.
 
 Fellows have any question. Your're encouraged to create a New Issue to let us
 know.
 
 If things not suitable discuses in public, please send an email to
-`s110213041@mail1.ncnu.edu.tw`.
+`s110213041@ncnu.edu.tw`.
 
 > [!NOTE]
 > 本計劃為簽到制, 請假 **無需** 通知小老師.

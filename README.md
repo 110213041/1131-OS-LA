@@ -14,7 +14,7 @@ Announcement will be publish in
 
 ## 課務資料 Programme Info
 
-- 時間 / Time: 星期五 Tuesday 1300-1700 (暫定 / Tentative)
+- 時間 / Time: 星期五 Friday 1300-1700 (暫定 / Tentative)
 - 地點 / Venue: 管理學院 B13 / College of Management B13
 
 ## 聯絡 Contact
